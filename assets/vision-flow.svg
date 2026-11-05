@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640">
+  <title>From pixels to predictions</title>
+  <desc>A camera feeds images into a model, which produces visible detections.</desc>
+  <defs><linearGradient id="brand" x2="1" y2="1"><stop stop-color="#00b6ff"/><stop offset="1" stop-color="#763cff"/></linearGradient></defs>
+  <rect width="960" height="640" fill="#050914"/>
+  <g fill="none" stroke="#15233a"><path d="M0 120H960M0 240H960M0 360H960M0 480H960M120 0V640M240 0V640M360 0V640M480 0V640M600 0V640M720 0V640M840 0V640"/></g>
+  <text x="60" y="85" fill="#5ac6ff" font-family="Arial,sans-serif" font-size="18" letter-spacing="4">KWAMEAI / COMPUTER VISION</text>
+  <text x="60" y="150" fill="#f4f6ff" font-family="Arial,sans-serif" font-size="42">From pixels to predictions.</text>
+  <g stroke="url(#brand)" stroke-width="3" fill="#0b1428"><rect x="60" y="240" width="220" height="220" rx="20"/><rect x="370" y="240" width="220" height="220" rx="20"/><rect x="680" y="240" width="220" height="220" rx="20"/></g>
+  <g stroke="#62b9ff" stroke-width="4" fill="none"><path d="M298 350h52m-12-12 12 12-12 12M608 350h52m-12-12 12 12-12 12"/><rect x="115" y="310" width="110" height="75" rx="10"/><circle cx="170" cy="347" r="23"/><path d="M140 310l10-18h40l10 18"/>
+  <path d="M427 300l103 45-103 45m103-90-103 45 103 45"/><circle cx="427" cy="300" r="7"/><circle cx="427" cy="345" r="7"/><circle cx="427" cy="390" r="7"/><circle cx="530" cy="300" r="7"/><circle cx="530" cy="345" r="7"/><circle cx="530" cy="390" r="7"/>
+  <path d="M750 325v-30h30m20 0h30v30m0 40v30h-30m-20 0h-30v-30"/><circle cx="790" cy="335" r="19"/><path d="M763 377q27-38 54 0"/></g>
+  <g fill="#e6ecff" font-family="Arial,sans-serif" font-size="21" text-anchor="middle"><text x="170" y="510">01  Camera input</text><text x="480" y="510">02  Model</text><text x="790" y="510">03  Detections</text></g>
+  <text x="60" y="594" fill="#8c9bb7" font-family="Arial,sans-serif" font-size="17">A simplified illustration of a computer vision workflow.</text>
+</svg>
